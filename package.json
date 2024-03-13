@@ -1,0 +1,30 @@
+{
+  "name": "idx-monospace",
+  "displayName": "IDX Monospace",
+  "description": "IDX Monospace Theme",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngocsang1201/idx-monospace.git"
+  },
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "IDX Monospace Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/idx-monospace-dark.json"
+      },
+      {
+        "label": "IDX Monospace Light",
+        "uiTheme": "vs",
+        "path": "./themes/idx-monospace-light.json"
+      }
+    ]
+  }
+}
