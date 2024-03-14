@@ -1,11 +1,12 @@
 {
   "name": "idx-monospace",
   "displayName": "IDX Monospace",
-  "description": "IDX Monospace Theme",
-  "version": "0.0.1",
+  "description": "The Monospace Theme from Google's IDX.",
+  "publisher": "nguyenngocsang",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ngocsang1201/idx-monospace.git"
+    "url": "https://github.com/ngocsangnguyen/idx-monospace.git"
   },
   "engines": {
     "vscode": "^1.87.0"
@@ -13,6 +14,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
