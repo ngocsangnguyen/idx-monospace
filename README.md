@@ -1,6 +1,6 @@
 # IDX Monospace Theme for [Visual Studio Code](http://code.visualstudio.com)
 
-> An unofficial theme based on [Project IDX](https://idx.google.com/).
+> Unofficial Monospace Theme based on [Project IDX](https://idx.google.com/).
 
 Monospace Dark:
 ![MonospaceDark](https://github.com/ngocsangnguyen/idx-monospace/assets/77200670/794e44d4-9b1a-432e-b3d4-365c21280a7a)
