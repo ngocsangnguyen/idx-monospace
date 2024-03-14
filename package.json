@@ -3,10 +3,10 @@
   "displayName": "IDX Monospace",
   "description": "The Monospace Theme from Google's IDX.",
   "publisher": "nguyenngocsang",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ngocsangnguyen/idx-monospace.git"
+    "url": "https://github.com/nnsng/idx-monospace.git"
   },
   "engines": {
     "vscode": "^1.87.0"
