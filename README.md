@@ -3,10 +3,10 @@
 > An unofficial theme based on [Project IDX](https://idx.google.com/).
 
 Monospace Dark:
-![Dark Theme](https://github.com/ngocsangnguyen/idx-monospace/assets/77200670/65b99d5f-4124-466e-a81f-c5a66ee8ff1f)
+![MonospaceDark](https://github.com/ngocsangnguyen/idx-monospace/assets/77200670/794e44d4-9b1a-432e-b3d4-365c21280a7a)
 
 Monospace Light:
-![Light Theme](https://github.com/ngocsangnguyen/idx-monospace/assets/77200670/512f1b80-9e08-4a6e-aa59-0cc50e398929)
+![MonospaceLight](https://github.com/ngocsangnguyen/idx-monospace/assets/77200670/f6569382-8d95-492a-8e6e-fd4a11a49ced)
 
 > Font: [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
 
