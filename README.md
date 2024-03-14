@@ -3,10 +3,10 @@
 > An unofficial theme based on [Project IDX](https://idx.google.com/).
 
 Monospace Dark:
-![Dark Theme]()
+![Dark Theme](https://github.com/ngocsangnguyen/idx-monospace/assets/77200670/65b99d5f-4124-466e-a81f-c5a66ee8ff1f)
 
 Monospace Light:
-![Light Theme]()
+![Light Theme](https://github.com/ngocsangnguyen/idx-monospace/assets/77200670/512f1b80-9e08-4a6e-aa59-0cc50e398929)
 
 > Font: [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
 
@@ -22,7 +22,3 @@ Monospace Light:
 ### Activating theme
 
 Run Visual Studio Code. The IDX Monospace Theme will be available from `File -> Preferences -> Color Theme` dropdown menu.
-
-## License
-
-[MIT License](./LICENSE)
