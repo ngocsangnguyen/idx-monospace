@@ -2,13 +2,16 @@
 
 > Unofficial Monospace Theme based on [Project IDX](https://idx.google.com/).
 
-Monospace Dark:
-![MonospaceDark](https://github.com/ngocsangnguyen/idx-monospace/assets/77200670/794e44d4-9b1a-432e-b3d4-365c21280a7a)
+IDX Monospace Light:
+![IDX Monospace Light](https://github.com/nnsng/idx-monospace/blob/main/images/idx-monospace-light.png?raw=true)
 
-Monospace Light:
-![MonospaceLight](https://github.com/ngocsangnguyen/idx-monospace/assets/77200670/f6569382-8d95-492a-8e6e-fd4a11a49ced)
+IDX Monospace Dark:
+![IDX Monospace Dark](https://github.com/nnsng/idx-monospace/blob/main/images/idx-monospace-dark.png?raw=true)
 
-> Font: [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
+IDX Monospace Dark Flat:
+![IDX Monospace Dark Flat](https://github.com/nnsng/idx-monospace/blob/main/images/idx-monospace-dark-flat.png?raw=true)
+
+> Font: [Fira Code](https://github.com/tonsky/FiraCode)
 
 ## Install
 

@@ -3,7 +3,7 @@
   "displayName": "IDX Monospace",
   "description": "The Monospace Theme from Google's IDX.",
   "publisher": "nguyenngocsang",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/nnsng/idx-monospace.git"
@@ -18,14 +18,19 @@
   "contributes": {
     "themes": [
       {
+        "label": "IDX Monospace Light",
+        "uiTheme": "vs",
+        "path": "./themes/idx-monospace-light.json"
+      },
+      {
         "label": "IDX Monospace Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/idx-monospace-dark.json"
       },
       {
-        "label": "IDX Monospace Light",
-        "uiTheme": "vs",
-        "path": "./themes/idx-monospace-light.json"
+        "label": "IDX Monospace Dark Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/idx-monospace-dark-flat.json"
       }
     ]
   }
